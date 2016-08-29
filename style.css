@@ -1,0 +1,58 @@
+.well h1, .well h2, .well h3, .well h4, .well h5, .well h6 {
+  color: bisque;
+}
+
+.well {
+  background-color:#747474 !important;
+}
+
+.img-rounded {
+  border-radius: 36px;
+}
+
+.padding36 {
+  padding:36px;
+}
+
+.well h1 {
+  font-family: Helvetica;
+  font-size: 72px;
+}
+
+p {
+  color: beige;
+}
+
+.well h2 {
+  font-style: italic;
+}
+
+.well h3 {
+  font-size: 38px;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
+
+.well p {
+  font-size: 14px;
+}
+
+.well p.lead {
+  font-size: 21px !important;
+}
+
+a:hover,
+a:active,
+a:visited {
+  color: #FF9800 !important;
+}
+
+a {
+  color: #fff;
+}
+
+.well h5 {
+  font-size: 18px;
+}
